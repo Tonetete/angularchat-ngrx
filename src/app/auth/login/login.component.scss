@@ -1,0 +1,29 @@
+.row {
+  margin-top: 25%;
+}
+
+.progressContainer {
+  height: 30px;
+  padding: 10px;
+}
+
+.card {
+  display: grid;
+}
+
+.card-body {
+  display: grid;
+  row-gap: 15px;
+}
+
+.card-text {
+  display: grid;
+  row-gap: 5px;
+}
+
+p {
+  input {
+    border: 1px solid;
+    border-radius: 1px;
+  }
+}
